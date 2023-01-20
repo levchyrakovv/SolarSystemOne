@@ -1,0 +1,16 @@
+package duxuan.zqx.Solar;
+
+import java.awt.Graphics;
+import java.awt.Image;
+
+import duxuan.zqx.Util.Constant;
+import duxuan.zqx.Util.GameUtil;
+import duxuan.zqx.Util.MyFrame;
+import duxuan.zqx.Util.Planet;
+import duxuan.zqx.Util.Star;
+
+/**
+ * Главное окно солнечной системы
+ * @author ZQX
+ *
+ */
